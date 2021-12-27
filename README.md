@@ -3,20 +3,20 @@
 ## Monoprogramming
 
 ### Hasil Running Monoprogramming (berhasil)
-![ss Monoprogramming](public\monoprogramming-success.png)
+![monoprogramming-success](public\monoprogramming-success.png)
 
 ### Hasil Running Monoprogramming (gagal)
-![ss Monoprogramming](public\monoprogramming-failed.png)
+![monoprogramming-failed](public\monoprogramming-failed.png)
 
 ----------
 
 ## Multiprogramming
 
-### Hasil Running Monoprogramming (berhasil)
-![ss Monoprogramming](public\multiprogramming-success.png)
+### Hasil Running Multiprogramming (berhasil)
+![multiprogramming-success](public\multiprogramming-success.png)
 
-### Hasil Running Monoprogramming (gagal)
-![ss Monoprogramming](public\multiprogramming-failed.png)
+### Hasil Running Multiprogramming (gagal)
+![multiprogramming-failed](public\multiprogramming-failed.png)
 
 ----------
 
